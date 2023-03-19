@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>spriteEnemy.qml</file>
+        <file>background.jpeg</file>
+        <file>enemy.png</file>
+        <file>person.png</file>
+        <file>spriteShot.qml</file>
+        <file>qmldir</file>
+    </qresource>
+</RCC>
