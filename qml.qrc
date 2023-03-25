@@ -3,9 +3,17 @@
         <file>main.qml</file>
         <file>spriteEnemy.qml</file>
         <file>background.jpeg</file>
-        <file>enemy.png</file>
         <file>person.png</file>
         <file>spriteShot.qml</file>
         <file>qmldir</file>
+        <file>0.png</file>
+        <file>1.png</file>
+        <file>2.png</file>
+        <file>shot.png</file>
+        <file>newgame.png</file>
+        <file>scripts.js</file>
+        <file>bomb.png</file>
+        <file>fire.qml</file>
+        <file>gameover.png</file>
     </qresource>
 </RCC>
